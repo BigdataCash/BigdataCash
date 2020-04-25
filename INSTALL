@@ -1,0 +1,9 @@
+Building BigdataCash
+
+See doc/readme-qt.rst for instructions on building BigdataCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BigdataCash.
+
+See doc/build-*.txt for instructions on building bigdatacashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BigdataCash.
