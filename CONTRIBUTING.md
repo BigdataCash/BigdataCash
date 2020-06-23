@@ -41,6 +41,19 @@ you are encouraged to leave a comment if you are planning to work on it. This
 will help other contributors monitor which issues are actively being addressed
 and is also an effective way to request assistance if and when you need it.
 
+Contributor Workflow
+--------------------
+
+The codebase is maintained using the "contributor workflow" where everyone
+without exception contributes patch proposals using "pull requests". This
+facilitates social contribution, easy testing and peer review.
+
+To contribute a patch, the workflow is as follows:
+
+  1. Fork repository ([only for the first time](https://help.github.com/en/articles/fork-a-repo))
+  1. Create topic branch
+  1. Commit patches
+
 ### Rewards
 
 All contributors can receive rewards for helping to improve our code, just make your commit and we will contact you soon.
