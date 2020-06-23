@@ -1231,6 +1231,7 @@ void MapPort()
 static const char *strDNSSeed[][2] = {
     {"bigdatacash.online", "node1.bigdatacash.online"},
     {"45.132.241.104", "45.132.241.104"},
+    {"141.136.35.97", "141.136.35.97"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
