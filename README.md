@@ -1,32 +1,36 @@
 
-BigdataCash development tree
+## BigdataCash CryptoCurrency Digital
 
-BigdataCash is a PoS-based cryptocurrency.
+**SPECS**
 
-Development process
-===========================
+BIGDATACASH **(BDCASH)
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+Algorithm: **Scrypt
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+Type: **PoS
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of BigdataCash.
+Supply: **15.000.000
 
-Feature branches are created when there are major new features being
-worked on by several people.
+Premine: **6,6% (1.000.000)
 
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
+Maturity POW: **20 blocks
 
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
+maturiry POS: **4 hours
+
+target spacing: **60 seconds
+
+target expectation: **10 blocks
+
+Transaction Confirmation: **3 Blocks
+
+Coins per block:**1 BDCASH
+
+Estimated fee rate: **0.0001 BDCASH
+
+**PoW 10,000 Blocks
+
+**PoS 15% per year
+
+**RPC Port 36264
+
+**P2P Port 36263
