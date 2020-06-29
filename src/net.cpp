@@ -1229,7 +1229,8 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"bigdatacash.online", "node1.bigdatacash.online"},
+    {"wallet.bigdatacash.online", "wallet.bigdatacash.online"},
+	{"explorer.bigdatacash.online", "explorer.bigdatacash.online"},
     {"45.132.241.104", "45.132.241.104"},
     {"141.136.35.97", "141.136.35.97"},
 };
