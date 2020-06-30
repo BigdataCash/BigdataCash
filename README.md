@@ -35,3 +35,7 @@ Estimated fee rate: **0.0001 BDCASH**
 **RPC Port 36264**
 
 **P2P Port 36263**
+
+**Follow me in Read Cash be come a sponsor and help Bifdatacash:**
+
+[![Sponsors](https://rcimg.net/images/sponsors/svg/DeveloperX.svg)](https://read.cash/become-a-sponsor/DeveloperX)
